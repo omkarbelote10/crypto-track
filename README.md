@@ -22,7 +22,7 @@ Then I created a bloc for changing the currency, and connected it to other
 blocs via inter-bloc communication.  
 Similarly created the bloc for providing online/offline states into other blocs and block api calls.  
 Added connectivity banner to all pages.  
-Then I added one more page for searching the coins based on query and completed its bloc, repo and api logic.  
+Then I added one more page for searching the coins based on query and completed its bloc, repo and api logic.    
 
  
 ## Screenshots:
