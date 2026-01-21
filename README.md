@@ -39,5 +39,9 @@ Then I added one more page for searching the coins based on query and completed 
 ### Offline Banner:
 ![Offline Banner](screenshots/crypto_offline.png)
 
+### 📦 APK Download:
+👉 [Download APK](https://drive.google.com/drive/folders/1YpHDKkFxvojcnigDsbhqso0WNkAryGB1?usp=sharing)
+
 ### Demo Video:
 [Click Here](https://drive.google.com/drive/folders/1-DLTTP32MHJkxe5TJ7g4E1qV0vOZFsPD?usp=sharing)
+
